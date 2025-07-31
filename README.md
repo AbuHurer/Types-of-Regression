@@ -5,7 +5,7 @@ This project demonstrates **10 types of regression techniques** using simple Pyt
 ## 📂 Files
 
 * `regression_examples.py` – Python script containing all regression model implementations.
-
+ 
 ## 🧠 Regression Types Covered
 
 1. **Linear Regression** – Predicts salary based on years of experience using a straight line fit.
